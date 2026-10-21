@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+staticfiles/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.oxlint-cache/
+
+# Vercel
+.vercel/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
